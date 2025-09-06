@@ -10,3 +10,4 @@ streamlit-folium>=0.20
 sympy>=1.12
 astropy>=5.3.2
 networkx>=3.1
+fpdf>=1.7.2  # ← ADICIONE ESTA LINHA
